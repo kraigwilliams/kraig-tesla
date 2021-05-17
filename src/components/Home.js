@@ -71,6 +71,7 @@ export default Home
 
 
 const HeaderContainer= styled.div`
+
 height:100vh;
 
 `;
